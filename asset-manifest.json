@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/offsideog/static/css/main.346434b4.chunk.css",
+    "main.js": "/offsideog/static/js/main.82de7b10.chunk.js",
+    "main.js.map": "/offsideog/static/js/main.82de7b10.chunk.js.map",
+    "runtime-main.js": "/offsideog/static/js/runtime-main.fe8db55f.js",
+    "runtime-main.js.map": "/offsideog/static/js/runtime-main.fe8db55f.js.map",
+    "static/css/2.edc293bf.chunk.css": "/offsideog/static/css/2.edc293bf.chunk.css",
+    "static/js/2.9f191100.chunk.js": "/offsideog/static/js/2.9f191100.chunk.js",
+    "static/js/2.9f191100.chunk.js.map": "/offsideog/static/js/2.9f191100.chunk.js.map",
+    "static/js/3.899f3e59.chunk.js": "/offsideog/static/js/3.899f3e59.chunk.js",
+    "static/js/3.899f3e59.chunk.js.map": "/offsideog/static/js/3.899f3e59.chunk.js.map",
+    "index.html": "/offsideog/index.html",
+    "static/css/2.edc293bf.chunk.css.map": "/offsideog/static/css/2.edc293bf.chunk.css.map",
+    "static/css/main.346434b4.chunk.css.map": "/offsideog/static/css/main.346434b4.chunk.css.map",
+    "static/js/2.9f191100.chunk.js.LICENSE.txt": "/offsideog/static/js/2.9f191100.chunk.js.LICENSE.txt",
+    "static/media/header.1c5827ae.jpg": "/offsideog/static/media/header.1c5827ae.jpg",
+    "static/media/kakaMilan.2edfbc12.jpg": "/offsideog/static/media/kakaMilan.2edfbc12.jpg",
+    "static/media/logo.efbfbd20.jpg": "/offsideog/static/media/logo.efbfbd20.jpg",
+    "static/media/logoWhite.50073ea5.png": "/offsideog/static/media/logoWhite.50073ea5.png",
+    "static/media/messiBarca.cba68c5f.jpg": "/offsideog/static/media/messiBarca.cba68c5f.jpg",
+    "static/media/neymarSantos.9af18b0a.jpg": "/offsideog/static/media/neymarSantos.9af18b0a.jpg",
+    "static/media/ozilMadrid.1e938103.jpg": "/offsideog/static/media/ozilMadrid.1e938103.jpg",
+    "static/media/ronaldinhoBarca.f3df7148.jpg": "/offsideog/static/media/ronaldinhoBarca.f3df7148.jpg",
+    "static/media/ronaldoBrazil.e6767b61.jpg": "/offsideog/static/media/ronaldoBrazil.e6767b61.jpg",
+    "static/media/ronaldoManU.14786e06.jpg": "/offsideog/static/media/ronaldoManU.14786e06.jpg",
+    "static/media/slick-theme.css": "/offsideog/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe8db55f.js",
+    "static/css/2.edc293bf.chunk.css",
+    "static/js/2.9f191100.chunk.js",
+    "static/css/main.346434b4.chunk.css",
+    "static/js/main.82de7b10.chunk.js"
+  ]
+}
